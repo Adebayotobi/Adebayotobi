@@ -3,8 +3,6 @@
 
 ![Header](./github-header-image.png)
 
-![](/images/github-header-image.png)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adebayotobi&label=Profile%20views&color=0e75b6&style=flat" alt="adebayotobi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adebayotobi" alt="adebayotobi" /></a> </p>
