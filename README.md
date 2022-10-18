@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adebayo Tobi</h1>
-<h3 align="center">A Web Developer</h3>
+<h3 align="center">A Frontend Developer</h3>
 
 ![Header](./github-header-image.png)
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adebayotobi" alt="adebayotobi" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap,JavaScript, REACT Js, Node Js**
+- 🌱 I’m currently learning **Bootstrap, Tailwind, Git, JavaScript, REACT Js,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adebayotobi](https://github.com/Adebayotobi)
 
