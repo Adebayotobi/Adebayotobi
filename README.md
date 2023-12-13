@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adebayotobi" alt="adebayotobi" /></a> </p>
 
 - 🌱As a Creative  Front-End Developer, I have accrued experience crafting high-impact web solutions for a diverse range of industry organizations. I possess a diverse skill set that enables me to design and develop web-based applications using a wide range of cutting-edge technologies. My goal is to leverage my technical expertise and extensive background to excel as a Front-End Developer, prioritizing an exceptional user experience above all else.
-My expertise includes HTML, CSS (Styled Componenets, Bootstrap, Tailwind, Chakra UI, Material UI, SASS, JavaScript, React, Typescript, Next JS, RESTful API, and Git.**
+My expertise includes HTML, CSS (Styled Componenets, Bootstrap, Tailwind, Chakra UI, Material UI, SASS, JavaScript, React, Typescript, Next JS, RESTful API, Cypress, Jest, and Git.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adebayotobi](https://github.com/Adebayotobi/)
 
