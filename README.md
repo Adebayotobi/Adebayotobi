@@ -12,7 +12,7 @@ My expertise includes HTML, CSS (Styled Componenets, Bootstrap, Tailwind, Chakra
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adebayotobi](https://github.com/Adebayotobi/)
 
-- 💬 Ask me about **javascript // react // next JS // typescript **
+- 💬 Ask me about **javascript // react // next JS // typescript // Cypress **
 
 - 📫 How to reach me **Adebayotobi366@gmail.com**
 
