@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adebayo Tobi</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Frontend Developer && QA Engineer</h3>
 
 ![Header](./github-header-image.png)
 
